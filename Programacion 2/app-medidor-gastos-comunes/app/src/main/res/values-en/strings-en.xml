@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meter Expense Tracker</string>
+    <string name="titulo_listado">Meter Readings</string>
+    <string name="titulo_registro">Register Meter</string>
+    <string name="boton_registrar">Add New Record</string>
+    <string name="placeholder_medidor">Meter Type</string>
+    <string name="placeholder_valor">Meter Value</string>
+    <string name="placeholder_fecha">Date</string>
+    <string name="tipo_agua">Water</string>
+    <string name="tipo_luz">Electricity</string>
+    <string name="tipo_gas">Gas</string>
+    <string name="boton_guardar">Save</string>
+    <string name="mensaje_exito">Record saved successfully</string>
+    <string name="mensaje_error">Error saving the record</string>
+    <string name="boton_editar">Edit</string>
+    <string name="boton_eliminar">Delete</string>
+    <string name="boton_agregar_medidor">Add Meter</string>
+</resources>
+
+
+

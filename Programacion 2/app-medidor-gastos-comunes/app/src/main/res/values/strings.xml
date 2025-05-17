@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Medidor de Gastos Comunes</string>
+    <string name="titulo_listado">Listado de Medidores</string>
+    <string name="titulo_registro">Registro de Medidor</string>
+    <string name="boton_registrar">Registrar Medición</string>
+    <string name="placeholder_medidor">Tipo de Medidor</string>
+    <string name="placeholder_valor">Valor del Medidor</string>
+    <string name="placeholder_fecha">Fecha</string>
+    <string name="tipo_agua">Agua</string>
+    <string name="tipo_luz">Luz</string>
+    <string name="tipo_gas">Gas</string>
+    <string name="boton_guardar">Guardar</string>
+    <string name="mensaje_exito">Registro guardado con éxito</string>
+    <string name="mensaje_error">Error al guardar el registro</string>
+    <string name="boton_editar">Editar</string>
+    <string name="boton_eliminar">Eliminar</string>
+    <string name="boton_agregar_medidor">Agregar Medidor</string>
+</resources>
